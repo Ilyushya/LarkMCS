@@ -1,2 +1,2 @@
 # LarkMCS
-Actor-based Minecraft: Java Edition server software
+ECS-based Minecraft: Java Edition server software
